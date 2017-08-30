@@ -5,6 +5,8 @@
 *.ipch
 *.sdf
 *.opensdf
+*.db
+*.opendb
 
 # Log files
 *_log.txt
